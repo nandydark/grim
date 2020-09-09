@@ -203,7 +203,7 @@ function extract_social_links($sourcecode){
     echo $bold . $red . "[!] No Social Link Found In Source Code. \n\e[0m";
   }
   elseif ($total_social_link_count == "1") {
-    // JOIN US ON TELEGRAM AS @GLOBALBLACKHATS
+    // Read the readme file
     echo $bold . $lblue . "[i] " . $fgreen . $total_social_link_count . $lblue . " Social Link Was Gathered From Source Code \n\n";
     foreach ($social_links_array['facebook'] as $link) {
       echo $bold . $blue . "[ facebook  ] " . $white . $link . "\n";
