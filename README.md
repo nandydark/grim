@@ -53,3 +53,17 @@ php grim.php
 
 JUST THAT'S IT,NOW YOU CAN SCAN THE WEBSITE AND FETCH ALL INFORMATIONS
 
+# Docker
+Docker can help isolate the presence of php.
+
+## Commands
+
+First you need to make a build
+```bash
+docker build --tag grim .
+```
+
+You can run grim using
+```bash
+docker run -it --rm grim
+```
