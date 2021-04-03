@@ -38,7 +38,7 @@ function grim_banner(){
 				 
 				 IF YOU WILL COPY THIS TOOL WITHOUT CREDITS THEN YOU ARE THE BIGGEST GAY ON THIS UNIVERSE :v 
 				 
-                 YOU CAN JOIN OUR GROUP ON TELEGRAM -> t.me/globalblackhats       
+                 YOU CAN FOLLOW ME ON GITHUB AS -> https://github.com/nandydark   
                                                                   
 \e[32m
   \n";
