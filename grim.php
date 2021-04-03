@@ -130,7 +130,7 @@ scanlist:
            | |T~\___!___!___/~T| |           INFORMATION GATHERING AND VULNERABILITY FETCHING TOOL
            | |`IIII_I_I_I_IIII'| |           ------X-BY NANDYDARK-X------
            |  \,III I I I III,/  |
-            \   `~~~~~~~~~~'    /            YOU CAN JOIN OUR GROUP ON TELEGRAM AS @globalblackhat
+            \   `~~~~~~~~~~'    /            YOU CAN FOLLOW ME ON GITHUB AS https://github.com/nandydark
               \   .       .   /              
                 \.    ^    ./
                   ^~~~^~~~^
@@ -162,7 +162,7 @@ askscan:
           }
         elseif ($scan == 'q' | $scan == 'Q')
           {
-            echo "\n\n\t THANKS FOR USING GRIM x_x, YOU CAN JOIN US ON TELEGRAM GROUP TOO :)\n\n";
+            echo "\n\n\t THANKS FOR USING GRIM x_x, DON'T FORGET TO GIVE IT A STAR :)\n\n";
             die();
           }
         elseif ($scan == 'b' || $scan == 'B')
